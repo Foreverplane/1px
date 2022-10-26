@@ -1,8 +1,8 @@
 {
-    "name": "com.foreverplane.1px",
-    "version": "0.0.1",
-    "displayName": "1px",
-    "description": "This is an 1px package",
+    "name": "com.foreverplane.px",
+    "version": "0.0.2",
+    "displayName": "px",
+    "description": "This is an px package",
     "unity": "2021.3",
     "unityRelease": "0b5",
 
@@ -12,7 +12,8 @@
    "keywords": [
       "Image",
       "Sprite",
-      "1px"
+      "1px",
+      "px"
     ],
     "author": {
       "name": "Foreverplane",
