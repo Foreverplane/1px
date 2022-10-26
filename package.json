@@ -1,18 +1,18 @@
 {
-    "name": "com.foreverplane.inputsamples",
-    "version": "0.0.4",
-    "displayName": "Input samples",
-    "description": "This is an input samples package",
+    "name": "com.foreverplane.1px",
+    "version": "0.0.1",
+    "displayName": "1px",
+    "description": "This is an 1px package",
     "unity": "2021.3",
     "unityRelease": "0b5",
 
     "dependencies": {
-      "com.unity.inputsystem": "1.4.3"
+
    },
    "keywords": [
-      "Input",
-      "Samples",
-      "New"
+      "Image",
+      "Sprite",
+      "1px"
     ],
     "author": {
       "name": "Foreverplane",
